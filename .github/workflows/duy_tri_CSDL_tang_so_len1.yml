@@ -1,5 +1,4 @@
-name: Duy tri CSDL QUAN LY THI DUA LE HOAN
-
+name: Duy tri CSDL QUAN LY THI DUA - CSDL CHUAN
 on:
   schedule:
     - cron: '0 * * * *'
