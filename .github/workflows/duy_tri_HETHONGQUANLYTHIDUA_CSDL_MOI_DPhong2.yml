@@ -1,4 +1,4 @@
-name: Duy tri CSDL QUAN LY THI DUA - CSDL CHUAN
+name: Duy tri HETHONGQUANLYTHIDUA_CSDL_MOI_DPhong2
 on:
   schedule:
     - cron: '0 * * * *'
